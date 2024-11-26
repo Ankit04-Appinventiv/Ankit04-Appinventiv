@@ -33,7 +33,6 @@ React Native Developer at Appinventiv
         <img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png" title="PostgreSQL" alt="postgresql" height="50" />
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" title="MySQL" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" title="REST API" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" title="Webpack" width="50" height="50" />
     </div>
 </div>
 
@@ -41,7 +40,6 @@ React Native Developer at Appinventiv
 <div align="left">
     <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="GIT" height="50" />
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" title="AWS" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" title="Docker" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" title="NGINX" width="65" height="65" />
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-socket-54-282608.png" alt="socket.io" title="socket.io" width="65" height="65" />
 </div>
